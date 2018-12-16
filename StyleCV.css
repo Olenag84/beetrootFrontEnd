@@ -1,0 +1,13 @@
+body {
+    background-image: url("bg.jpg");
+    font-family: Arial, sans-serif;
+    color: blue;
+
+}
+h1, h4 {
+text-align: center;
+}
+
+h1+p {
+
+}
